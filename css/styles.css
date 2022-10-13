@@ -1,0 +1,43 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    margin: 0 auto;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    width: 340px;
+    margin: 12% auto 10px;
+    text-align: center;
+}
+
+.qrCode {
+    width: 300px;
+    border-radius: 5%;
+    margin-top: 20px;
+}
+
+.words {
+    width: 250px;
+    margin: 10px auto;
+    padding-bottom: 30px;
+}
+
+.tagline {
+    font-size: 20px;
+}
+
+.instructions {
+    color: hsl(220, 15%, 55%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
